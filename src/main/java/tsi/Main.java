@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         PlayCardsFX.launch(args, 8, 5, Main::start);
-        //Ширина и высота стола. Измеряется в количестве карт по горизонтали и по вертикале
+        //Ширина и высота стола. Измеряется в количестве карт по горизонтали и по вертикалеasdfasdf
     }
 
     private static void start(Table table) {
